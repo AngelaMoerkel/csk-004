@@ -1,7 +1,7 @@
 # Cardano Starter Kit #004
 ### A "mini-csk" on Transaction Metadata
 
-[Link to accompanying video on YouTube](https://youtu.be/Qmx7Pv_bsxw) (feel free to go 1.5x speed+ if it suits you 😎)
+[Link to accompanying video on YouTube](https://youtu.be/IJ-iiYkdn8Y) (feel free to go 1.5x speed+ if it suits you 😎)
 
 ## You should look at this starter kit if...
 

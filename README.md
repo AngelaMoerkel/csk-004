@@ -2,7 +2,6 @@
 ### A "mini-csk" on Transaction Metadata
 
 [Link to accompanying video on YouTube](https://youtu.be/Qmx7Pv_bsxw) (feel free to go 1.5x speed+ if it suits you 😎)
-https://youtu.be/Qmx7Pv_bsxw?t=53
 
 ## You should look at this starter kit if...
 

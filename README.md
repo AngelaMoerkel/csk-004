@@ -20,13 +20,13 @@
 
 ## Timestamps
 
-- [2:24](https://youtu.be/Qmx7Pv_bsxw?t=144) - Viewing metadata on [Cardano Blockchain Intelligence](https://bi.stakepoolcentral.com)
-- [4:46](https://youtu.be/Qmx7Pv_bsxw?t=286) - When was the first metadata posted to the Cardano blockchain?
-- [8:30](https://youtu.be/Qmx7Pv_bsxw?t=510) - Navigating metadata by "key"
-- [10:03](https://youtu.be/Qmx7Pv_bsxw?t=603) - How does metadata change the cost of a transaction?
-- [12:16](https://youtu.be/Qmx7Pv_bsxw?t=736) - What does metadata look like on the web?
-- [14:19](https://youtu.be/Qmx7Pv_bsxw?t=859) - Looking "under the hood" of Daedalus Wallet
-- [16:42](https://youtu.be/Qmx7Pv_bsxw?t=1002) - What Gimbalabs did: tinkering with Daedalus and the database it creates to post strings and lists of strings as tx metadata
+- [2:24](https://youtu.be/IJ-iiYkdn8Y?t=144) - Viewing metadata on [Cardano Blockchain Intelligence](https://bi.stakepoolcentral.com)
+- [4:46](https://youtu.be/IJ-iiYkdn8Y?t=286) - When was the first metadata posted to the Cardano blockchain?
+- [8:30](https://youtu.be/IJ-iiYkdn8Y?t=510) - Navigating metadata by "key"
+- [10:03](https://youtu.be/IJ-iiYkdn8Y?t=603) - How does metadata change the cost of a transaction?
+- [12:16](https://youtu.be/IJ-iiYkdn8Y?t=736) - What does metadata look like on the web?
+- [14:19](https://youtu.be/IJ-iiYkdn8Y?t=859) - Looking "under the hood" of Daedalus Wallet
+- [16:42](https://youtu.be/IJ-iiYkdn8Y?t=1002) - What Gimbalabs did: tinkering with Daedalus and the database it creates to post strings and lists of strings as tx metadata
 
 ---
 

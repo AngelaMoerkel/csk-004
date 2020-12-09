@@ -38,6 +38,7 @@
 - [baids-daedalus from Gimbalabs](https://github.com/GimbaLabs/baids-daedalus)
 - Want to go deeper? [Try the Cardano docs](https://docs.cardano.org/projects/cardano-serialization-lib/en/latest/getting-started/generating-keys.html)
 
-CSK #004 Tx Hash: d82687a57e18d592f2e442dda0d3e4867f695a2daf044980d797d908ac7ec334
-ADA Day 2020 Hash: 831ef24ba4585e6c64489ff3d05826340caa159842c3b78b12bb3be91c0c2353
+## See for yourself:
+- CSK #004 Tx Hash: d82687a57e18d592f2e442dda0d3e4867f695a2daf044980d797d908ac7ec334
+- ADA Day 2020 Hash: 831ef24ba4585e6c64489ff3d05826340caa159842c3b78b12bb3be91c0c2353
 
